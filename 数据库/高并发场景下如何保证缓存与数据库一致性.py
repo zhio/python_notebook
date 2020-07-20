@@ -1,0 +1,12 @@
+"""
+熟悉python
+熟悉Flask、Django框架
+熟悉js、css、html等前端技术，了解Vue框架
+熟悉mysql数据库，熟悉Redis数据库
+熟悉Linux系统，熟悉shell脚本编写
+熟悉kafka的使用
+熟悉celery,ElasticSearch,MQ等组件的使用
+熟悉Docker
+熟练使用Git
+了解爬虫相关技术
+"""
