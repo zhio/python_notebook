@@ -6,3 +6,5 @@
 [is和==的区别](https://github.com/chenjb04/interview/blob/master/python/is%E5%92%8C%3D%3D%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 [lambda表达式](https://github.com/chenjb04/interview/blob/master/python/lambda%E5%87%BD%E6%95%B0.md)
+
+[赋值深浅拷贝](https://github.com/chenjb04/interview/blob/master/python/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
