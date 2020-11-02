@@ -8,3 +8,5 @@
 [lambda表达式](https://github.com/chenjb04/interview/blob/master/python/lambda%E5%87%BD%E6%95%B0.md)
 
 [赋值深浅拷贝](https://github.com/chenjb04/interview/blob/master/python/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
+
+[函数的参数传递](https://github.com/chenjb04/interview/blob/master/python/%E5%87%BD%E6%95%B0%E7%9A%84%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92.md)
