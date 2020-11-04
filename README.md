@@ -16,3 +16,5 @@
 [python中的函数重载](https://github.com/chenjb04/interview/blob/master/python/python%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E9%87%8D%E8%BD%BD.md)
 
 [python中的下划线](https://github.com/chenjb04/interview/blob/master/python/python%E4%B8%AD%E7%9A%84%E4%B8%8B%E5%88%92%E7%BA%BF.md)
+
+[单例模式](https://github.com/chenjb04/interview/blob/master/python/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
