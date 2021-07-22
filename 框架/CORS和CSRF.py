@@ -1,6 +1,6 @@
 """
 CORS是一个W3C标准,全称是“跨域资源共享"(Cross-origin resoure sharing). 
-它允许浏览器向跨源服务器，发出XMLHttpRequest请求，从而客服了AJAX只能同源使用的限制。
+它允许浏览器向跨源服务器，发出XMLHttpRequest请求，从而克服了AJAX只能同源使用的限制。
 
 CSRF防御方式
 	后端生成表单时会生成一串随机token，内置到表单里成为一个字段，同时把此串token存入session中,
